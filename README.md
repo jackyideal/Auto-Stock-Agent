@@ -19,3 +19,8 @@ cd Auto-Stock-Agent
 pip install -r requirements.txt
 python main.py
 ```
+
+
+## Citation
+
+If you use Auto-Stock-Agent in your work, please cite this github link in your paper.
