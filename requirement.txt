@@ -1,0 +1,7 @@
+
+pip install 'autogen-agentchat==0.4.0.dev7' 'autogen-ext[openai]==0.4.0.dev7'
+pip install tushare
+pip install akshare
+pip install gradio
+pip install matplotlib
+pip install PyPDF2p
