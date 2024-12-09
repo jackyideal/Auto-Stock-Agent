@@ -1,7 +1,11 @@
 # Auto-Stock-Agent
 
 <p align="center">
-    <img src="assets/model_structure.png" width="800"/>
+    <img src="assets/auto-stock-agent-case.png" width="800"/>
+<p>
+
+<p align="center">
+    <img src="assets/auto-stock-agent-case1.png" width="800"/>
 <p>
 
 
