@@ -13,6 +13,10 @@
 
 Preparation
 
+```
+prepare your tushare token and openai API key
+```
+
 ```bash
 git clone https://github.com/jackyideal/Auto-Stock-Agent.git
 cd Auto-Stock-Agent
