@@ -43,11 +43,11 @@ Leverages machine learning algorithms for enhanced forecasting capabilities.
 ```
 
 <p align="center">
-    <img src="assets/auto-stock-agent-case.png" width="800"/>
+    <img src="assets/auto-stock-agent-case1.png" width="800"/>
 <p>
 
 <p align="center">
-    <img src="assets/auto-stock-agent-case1.png" width="800"/>
+    <img src="assets/auto-stock-agent-case2.png" width="800"/>
 <p>
 
 
