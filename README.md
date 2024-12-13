@@ -3,28 +3,39 @@
 ## Core Idea
 
 ```
-AutoStock is an advanced framework that integrates diverse data sources to provide a holistic analysis of stock performance and predict future trends. Designed for investors seeking informed decision-making, AutoStock combines market information, macroeconomic policies, sentiment analysis, and both fundamental and technical indicators.
+AutoStock is an advanced framework that integrates diverse data sources to provide a holistic analysis of stock performance and predict future trends.
+Designed for investors seeking informed decision-making,
+AutoStock combines market information, macroeconomic policies, sentiment analysis, and both fundamental and technical indicators.
 
 ```
 
 ```
-Market Information Integration
+## Market Information Integration
 
 Real-time and historical data on major stock indices and market movements.
 Analysis of macroeconomic factors and their impact on the market.
 
-Policy & Sentiment Analysis
+```
+
+```
+## Policy & Sentiment Analysis
 
 Keeps you updated with the latest regulatory changes and policy developments.
 Utilizes sentiment analysis to gauge market mood from news and social media.
 
-Individual Stock Analysis
+```
+
+```
+## Individual Stock Analysis
 
 Tracks performance metrics, including price movements and trading volumes.
 Conducts in-depth fundamental analysis of company financials.
 Employs technical indicators to identify trends and potential trading signals.
 
-Comprehensive Trend Forecasting
+```
+
+```
+## Comprehensive Trend Forecasting
 
 Combines all data sources for accurate prediction of stock movements.
 Leverages machine learning algorithms for enhanced forecasting capabilities.
