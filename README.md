@@ -43,11 +43,11 @@ Leverages machine learning algorithms for enhanced forecasting capabilities.
 ```
 
 <p align="center">
-    <img src="assets/case1.png" width="800"/>
+    <img src="asstes/case1.png" width="800"/>
 <p>
 
 <p align="center">
-    <img src="assets/case2.png" width="800"/>
+    <img src="asstes/case2.png" width="800"/>
 <p>
 
 
