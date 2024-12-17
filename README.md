@@ -50,6 +50,11 @@ Leverages machine learning algorithms for enhanced forecasting capabilities.
     <img src="asstes/case2.png" width="800"/>
 <p>
 
+<p align="center">
+    <img src="asstes/case3.png" width="800"/>
+<p>
+
+
 
 ## Quick Start
 
